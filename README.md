@@ -1,2 +1,5 @@
 # Helloworldsss
-First Repo 
+
+ss descritption 
+this is my first source control thought git 
+
